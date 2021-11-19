@@ -1,0 +1,21 @@
+body {
+    height: 400px;
+    width: auto;
+    background-color: white;
+}
+.button{
+    position: center;
+}
+p{
+    color: blue;
+}
+
+.modal {
+    background: pink;
+    width: 600px;
+    max-width: 100%;
+}
+.button{
+    position: center-right;
+}
+    
